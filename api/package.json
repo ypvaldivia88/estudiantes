@@ -1,0 +1,26 @@
+{
+  "name": "students_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ypvaldivia88/estudiantes_api.git"
+  },
+  "author": "Yasmani Palmero Valdivia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypvaldivia88/estudiantes_api/issues"
+  },
+  "homepage": "https://github.com/ypvaldivia88/estudiantes_api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
